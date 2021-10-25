@@ -5,6 +5,7 @@ import geopandas as gpd
 import time
 import igraph as ig
 import numpy as np
+from shapely.geometry import Point, LineString
 # import operator
 # import osmnx as ox
 # from sqlalchemy import create_engine
